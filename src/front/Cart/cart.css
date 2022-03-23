@@ -1,0 +1,44 @@
+.item-name{
+    font-size:1.5rem;
+    font-weight:bold;
+
+}
+
+.details{
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 10px 15px -3px, rgba(0, 0, 0, 0.05) 0px 4px 6px -2px;
+    width:80%;
+    margin:auto;
+    padding:2rem;
+}
+
+
+.cart-items-list img{
+    width:80%;
+    margin:20px 0px;
+}
+
+
+.items-total-price-label{
+    margin-top:3rem;
+    padding:3rem 0rem;
+    box-shadow: rgba(0, 0, 0, 0.19) 0px 10px 20px, rgba(0, 0, 0, 0.23) 0px 6px 6px;
+    width:80%;
+    margin: 3rem auto;
+    
+}
+
+.items-total-price{
+    
+}
+
+.item-price{
+    font-size:1.5rem;
+    font-weight:bold;
+    margin-top:1rem;
+}
+
+.cart-items-header{
+    font-size:2rem;
+    margin-top:2rem;
+}
+
